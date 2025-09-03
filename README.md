@@ -98,3 +98,7 @@ If you want, I can:
 - Improve the README with screenshots (add them to the repo) or adapt instructions if `Script.js` has specific APIs I should document — point me to the code and I'll extract function docs automatically.
 
 ---
+
+## Preview 
+
+- [Notes App]( https://haseebjaved4212.github.io/Simple-Note-Taking-App/)
